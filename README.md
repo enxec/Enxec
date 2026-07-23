@@ -1,13 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Enxec&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=AI%EB%A1%9C%20%EA%B2%BD%EA%B3%84%20%EC%97%86%EC%9D%B4%20%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%82%AC%EB%9E%8C&descSize=18&descAlignY=72&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=enxec&fontSize=85&fontColor=ffffff&animation=fadeIn&desc=Founder%20of%20Paldyn%20%7C%20%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EC%8B%A4%ED%96%89%EC%97%90%20%EC%98%AE%EA%B8%B0%EB%8B%A4&descSize=18&descAlignY=72&descAlign=50" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enxec&label=Profile%20views&color=8b5cf6&style=flat-square" alt="views" />
 </p>
 
+<h3 align="center">🚀 Founder & CEO of Paldyn</h3>
+
 <p align="center">
-  특정 언어나 프레임워크에 저를 가두지 않습니다.<br>
-  <b>AI를 도구 삼아, 필요한 건 무엇이든 배우고 만드는</b> 개발자입니다.<br>
-  백엔드에서 출발해 그 경계 너머까지 — 문제를 푸는 데 필요한 걸 씁니다.
+  <b>생각을 멈추지 않고, 무엇이든 실행에 옮깁니다.</b><br>
+  기술에 갇히지 않고, AI를 지렛대 삼아 필요한 걸 만들어 냅니다.
 </p>
 
 ---
@@ -15,11 +16,11 @@
 ## 🤖 AI-Powered Workflow
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
