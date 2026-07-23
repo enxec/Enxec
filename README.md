@@ -39,19 +39,10 @@
 ## 📊 GitHub 통계
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=enxec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enxec&layout=compact&theme=tokyonight&langs_count=8" alt="langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=enxec&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enxec&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enxec&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophy" />
-</p>
 
 ---
 
