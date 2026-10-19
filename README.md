@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=enxec&fontSize=85&fontColor=ffffff&animation=fadeIn&desc=Founder%20of%20Paldyn%20%7C%20%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EC%8B%A4%ED%96%89%EC%97%90%20%EC%98%AE%EA%B8%B0%EB%8B%A4&descSize=18&descAlignY=72&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=230&amp;section=header&amp;text=Enxec&amp;fontSize=85&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Founder%20of%20PALDYN%20%7C%20%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EC%8B%A4%ED%96%89%EC%97%90%20%EC%98%AE%EA%B8%B0%EB%8B%A4&amp;descSize=18&amp;descAlignY=72&amp;descAlign=50" alt="Enxec — Founder of PALDYN | 무엇이든 실행에 옮기다" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enxec&label=Profile%20views&color=8b5cf6&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=enxec&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="center">🚀 Founder & CEO of Paldyn</h3>
+<h3 align="center">🚀 Founder &amp; CEO of PALDYN</h3>
 
 <p align="center">
-  <b>생각을 멈추지 않고, 무엇이든 실행에 옮깁니다.</b><br>
+  <b>생각을 멈추지 않고, 무엇이든 실행에 옮깁니다.</b><br />
   기술에 갇히지 않고, AI를 지렛대 삼아 필요한 걸 만들어 냅니다.
 </p>
 
@@ -16,35 +16,77 @@
 ## 🤖 AI-Powered Workflow
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="./assets/readme-polish/ai-chatgpt.svg" width="150" height="78" alt="ChatGPT" />
+  <img src="./assets/readme-polish/ai-claude.svg" width="150" height="78" alt="Claude" />
+  <img src="./assets/readme-polish/ai-copilot.svg" width="150" height="78" alt="GitHub Copilot" />
+  <img src="./assets/readme-polish/ai-cursor.svg" width="150" height="78" alt="Cursor" />
+  <img src="./assets/readme-polish/ai-gemini.svg" width="150" height="78" alt="Gemini" />
 </p>
 
 ---
 
 ## 🧰 다뤄본 것들
 
-| 분류 | 기술 |
-|------|------|
-| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Backend** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white) |
-| **Database** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![H2](https://img.shields.io/badge/H2-1221C0?style=for-the-badge&logo=h2database&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black) |
-| **Collab / OS** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) |
+<p>
+  <sub><b>Language</b></sub><br />
+  <img src="./assets/readme-polish/tech-java.svg" height="40" alt="Java" />
+  <img src="./assets/readme-polish/tech-python.svg" height="40" alt="Python" />
+  <img src="./assets/readme-polish/tech-javascript.svg" height="40" alt="JavaScript" />
+  <img src="./assets/readme-polish/tech-html.svg" height="40" alt="HTML" />
+  <img src="./assets/readme-polish/tech-css.svg" height="40" alt="CSS" />
+</p>
+
+<p>
+  <sub><b>Backend</b></sub><br />
+  <img src="./assets/readme-polish/tech-spring.svg" height="40" alt="Spring" />
+  <img src="./assets/readme-polish/tech-spring-boot.svg" height="40" alt="Spring Boot" />
+  <img src="./assets/readme-polish/tech-spring-security.svg" height="40" alt="Spring Security" />
+  <img src="./assets/readme-polish/tech-jpa.svg" height="40" alt="JPA" />
+  <img src="./assets/readme-polish/tech-mybatis.svg" height="40" alt="MyBatis" />
+</p>
+
+<p>
+  <sub><b>Database</b></sub><br />
+  <img src="./assets/readme-polish/tech-oracle.svg" height="40" alt="Oracle" />
+  <img src="./assets/readme-polish/tech-mysql.svg" height="40" alt="MySQL" />
+  <img src="./assets/readme-polish/tech-mariadb.svg" height="40" alt="MariaDB" />
+  <img src="./assets/readme-polish/tech-h2.svg" height="40" alt="H2" />
+</p>
+
+<p>
+  <sub><b>DevOps</b></sub><br />
+  <img src="./assets/readme-polish/tech-docker.svg" height="40" alt="Docker" />
+  <img src="./assets/readme-polish/tech-jenkins.svg" height="40" alt="Jenkins" />
+  <img src="./assets/readme-polish/tech-gradle.svg" height="40" alt="Gradle" />
+  <img src="./assets/readme-polish/tech-maven.svg" height="40" alt="Maven" />
+  <img src="./assets/readme-polish/tech-tomcat.svg" height="40" alt="Tomcat" />
+</p>
+
+<p>
+  <sub><b>Collab / OS</b></sub><br />
+  <img src="./assets/readme-polish/tech-git.svg" height="40" alt="Git" />
+  <img src="./assets/readme-polish/tech-github.svg" height="40" alt="GitHub" />
+  <img src="./assets/readme-polish/tech-gitlab.svg" height="40" alt="GitLab" />
+  <img src="./assets/readme-polish/tech-linux.svg" height="40" alt="Linux" />
+  <img src="./assets/readme-polish/tech-macos.svg" height="40" alt="macOS" />
+</p>
 
 ---
 
 ## 📊 GitHub 통계
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enxec&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=enxec&amp;theme=tokyonight&amp;hide_border=true" alt="Enxec의 GitHub 연속 기여 기록" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enxec&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme-polish/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/readme-polish/snake-light.svg" />
+  <img src="./assets/readme-polish/snake-light.svg" width="100%" alt="Enxec의 GitHub 기여 잔디를 따라 움직이는 Snake 애니메이션" />
+</picture>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" alt="" />

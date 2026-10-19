@@ -1,0 +1,14 @@
+{
+  "README.md": {
+    "local_image_refs": 32,
+    "external_image_refs": 4,
+    "missing_local_images": []
+  },
+  "README-workspace.md": {
+    "local_image_refs": 33,
+    "external_image_refs": 2,
+    "missing_local_images": []
+  },
+  "svg_count": 31,
+  "workflow_yaml": "parsed; not run on GitHub"
+}
